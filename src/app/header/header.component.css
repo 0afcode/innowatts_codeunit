@@ -1,0 +1,8 @@
+mat-card {
+  background-color: darkorchid;
+  box-shadow: black 1px 1px;
+}
+mat-card-title {
+  color: #FFFFFF;
+  text-shadow: -2px -2px 2px rgba(99,92,90,0.41), 1px -2px 0px rgba(99,92,90,0.62);
+}

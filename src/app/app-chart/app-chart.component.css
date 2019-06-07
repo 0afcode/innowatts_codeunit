@@ -1,0 +1,27 @@
+.primary-button {
+  padding: 10px 20px;
+  font-size: large;
+  margin: 0 auto;
+  background-color: darkorchid;
+  color: #FFF;
+}
+
+table td, table th {
+  text-align: center;
+}
+table th {
+  font-size: larger;
+}
+table td:hover {
+  text-decoration: underline;
+  color: darkorchid;
+  cursor: pointer;
+}
+mat-spinner {
+  margin: 0 auto;
+}
+
+highcharts-chart {
+  width: 100%;
+  display: block;
+}
